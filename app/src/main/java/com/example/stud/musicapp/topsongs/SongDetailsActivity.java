@@ -45,6 +45,7 @@ public class SongDetailsActivity extends AppCompatActivity {
 
                 if (tracks != null && tracks.track.size() > 0) {
                     showData(tracks.track.get(0));
+
                 }
             }
 
